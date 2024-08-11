@@ -1,4 +1,5 @@
-## AI-Powered CS Mentor](http://ec2-3-147-126-99.us-east-2.compute.amazonaws.com/)
+## AI-Powered CS Mentor[http://ec2-3-147-126-99.us-east-2.compute.amazonaws.com/]
+Credits: Mohammed Khawar Khan, Justin Pham, Shuo Li
 
 **Introduction:**
 Have you ever wished you had a CS mentor at your fingertips? Well, now you do!
